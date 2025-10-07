@@ -1,0 +1,14 @@
+<svg width="40" height="40" xmlns="http://www.w3.org/2000/svg" fill="none">
+
+ <g>
+  <path id="svg_1" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="#000000" d="m5,7.8c0,-1.68016 0,-2.52024 0.32698,-3.16197c0.28762,-0.56449 0.74656,-1.02343 1.31105,-1.31105c0.64173,-0.32698 1.48181,-0.32698 3.16197,-0.32698l4.4,0c1.6802,0 2.5202,0 3.162,0.32698c0.5645,0.28762 1.0234,0.74656 1.311,1.31105c0.327,0.64173 0.327,1.48181 0.327,3.16197l0,13.2l-7,-4l-7,4l0,-13.2z"/>
+  <path stroke="#000000" id="svg_10" d="m6.98971,4.93172l10.05613,0l0,10.17306l-10.05613,0l0,-10.17306z" opacity="undefined" stroke-width="2"/>
+  <line stroke="#000000" fill="none" id="svg_11" y2="15.66605" x2="11.31619" y1="19.19739" x1="5.49299" stroke-width="2"/>
+  <path id="svg_12" d="m5.1992,17.40293l3.8105,-1.99034" transform="rotate(-19.4018 7.10445 16.4078)" opacity="undefined" stroke-width="2" stroke="#000000" fill="none"/>
+  <line id="svg_16" y2="18.56596" x2="18.4958" y1="15.38541" x1="12.46212" stroke-width="2" stroke="#000000" fill="none"/>
+  <line id="svg_18" y2="16.76521" x2="18.33209" y1="15.43219" x1="16.25071" stroke-width="2" stroke="#000000" fill="none"/>
+  <rect stroke="#000000" id="svg_19" height="6.24415" width="6.15061" y="6.91956" x="8.93078" stroke-width="2" fill="none"/>
+  <rect stroke="#000000" id="svg_20" height="2.31525" width="2.2217" y="8.88401" x="10.89524" stroke-width="2" fill="none"/>
+  <rect id="svg_21" height="0.46773" width="0.77175" y="9.67914" x="11.52667" stroke-width="2" stroke="#000000" fill="none"/>
+ </g>
+</svg>
