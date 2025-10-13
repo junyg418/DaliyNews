@@ -6,7 +6,7 @@ import {KeywordNews, EmptyKeywordNews} from './KeywordNews'
 
 const LayoutKeywordNewsList = styled(Row)`
     height: 30%;
-    justify-content: space-between;
+    justify-content: space-around;
 `;
 
 function KeywordNewsList() {
@@ -19,7 +19,6 @@ function KeywordNewsList() {
             {/*<KeywordNews keyword={"samsung"} description={"설명입니다요"}/>*/}
             <EmptyKeywordNews/>
             <EmptyKeywordNews/>
-            <KeywordNews keyword={"samsung"} description={"설명입니다요"}/>
         </LayoutKeywordNewsList>
     );
 }
