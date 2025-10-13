@@ -1,8 +1,7 @@
 import styled from "styled-components";
 import {Row} from "../../styles/layout";
 
-import KeywordNews from './KeywordNews'
-import EmptyKeywordNews from "./EmptyKeywordNews";
+import {KeywordNews, EmptyKeywordNews} from './KeywordNews'
 
 
 const LayoutKeywordNewsList = styled(Row)`
@@ -16,6 +15,9 @@ function KeywordNewsList() {
         <LayoutKeywordNewsList>
             <KeywordNews keyword={"samsung"} description={"설명입니다요"}/>
             <KeywordNews keyword={"samsung"} description={"설명입니다요"}/>
+            {/*<KeywordNews keyword={"samsung"} description={"설명입니다요"}/>*/}
+            {/*<KeywordNews keyword={"samsung"} description={"설명입니다요"}/>*/}
+            <EmptyKeywordNews/>
             <EmptyKeywordNews/>
             <KeywordNews keyword={"samsung"} description={"설명입니다요"}/>
         </LayoutKeywordNewsList>
