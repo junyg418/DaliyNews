@@ -35,11 +35,19 @@ li {
     list-style: none;
 }
 
-input:focus, textarea:focus {
-    outline: none;
+input {
     border: none;
+    border-bottom: 2px solid #00141c;
+    padding-bottom: 4px;
+    opacity: 0.6;
+    transition: opacity 0.2s ease;
 }
 
+input:focus, textarea:focus {
+    outline: none;
+    opacity: 1;
+}
+/*========== ^ 기본 css 설정 ^ ==========*/
 .main-container {
     display: flex;
     flex-direction: column;
