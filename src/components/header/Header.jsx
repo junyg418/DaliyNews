@@ -1,6 +1,5 @@
 import styles from "./Header.module.css";
-import './logo.jsx';
-import {Logo} from "./logo";
+import {ReactComponent as Logo} from "../../assets/logo.svg";
 
 
 function MainHeader() {
