@@ -1,7 +1,0 @@
-.app_header {
-    display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    padding: 1%;
-    gap: 1%;
-}
